@@ -1,1 +1,3 @@
-# detecting_spam_email
+# Classifying spam email
+
+Builds and trains simple ML algorithms to classify spam emails.
